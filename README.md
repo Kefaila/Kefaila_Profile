@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I was working on a high school project
-- 🌱 I was learning about deep learning (now I'm studying Korean SAT T_T)
+- 🔭 고2 동아리 개인 프로젝트 (망해씀)
+- 🌱 삼수중임니당
 - 📫 How to reach me : <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ledofastra%40gmail.com-%23EA4335?logo=gmail&logoColor=white"/></a>
 
 
