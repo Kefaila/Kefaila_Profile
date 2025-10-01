@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Colab-%23F9AB00?logo=googlecolab&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=yellow"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-%23FF6F00?logo=tensorflow&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Keras-%23D00000?logo=keras&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-%2310A37F?logo=openai&logoColor=white"/></a>
